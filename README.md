@@ -51,7 +51,7 @@ Ils sont membres de l'assemblée générale avec voix délibérative.
 
 Sont appelés **Membres actifs** les personnes physiques adhérentes de l'association utilisant de manière régulière l'espace de travail de l'association comme environnement de travail. 
 
-Les Membres actifs doivent être à jour de leur cotisation et de leur loyer mensuel et s'engagent à respecter les présents statuts ainsi que le règlement intérieur de l'association.
+Les Membres actifs doivent être à jour de leur cotisation et de paiement de leur prestation et s'engagent à respecter les présents statuts ainsi que le règlement intérieur de l'association.
 
 Les Membres actifs doivent impérativement participer à la vie de l'association, notamment en contribuant activement à l'un des groupe de travail défini dans le règlement intérieur.
 
@@ -76,10 +76,10 @@ Avant la décision éventuelle de radiation ou d'exclusion, l'intéressé est in
 
 ## Article 9 - Ressources
 Les ressources de l'association se composent:
-Du produit des cotisations versées par ses membres 
-Des dons dont elle bénéficie et des cotisations exceptionnelles
-Des loyers mensuels des membres actifs
-Toute autre ressource autorisée par la loi en matière de financement associatif
+- Du produit des cotisations versées par ses membres 
+- Des dons dont elle bénéficie et des cotisations exceptionnelles
+- Du produit des prestations facturés à ses membres
+- Toute autre ressource autorisée par la loi en matière de financement associatif
 
 ## Article 10 - Rémunérations
 Les mandats des membres du Conseil d'administration ainsi que les membres du bureau sont gratuits. Toutefois, les frais et débours occasionnés par l'accomplissement de leur mandat peuvent être remboursés aux administrateurs sur présentation d'un justificatif. Le rapport financier présenté à l'assemblée générale doit faire mention des remboursements des frais de mission, de déplacements ou de représentation réglés à des administrateurs.
