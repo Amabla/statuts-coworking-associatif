@@ -1,0 +1,22 @@
+{
+  "name": "statuts-coworking-associatif",
+  "version": "2.3.0",
+  "description": "Les statuts de l'espace de coworking associatif Amabla à Lyon",
+  "main": "index.js",
+  "scripts": {
+    "pdf": "markdown-pdf README.md -o amabla_statuts.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amabla/statuts-coworking-associatif.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amabla/statuts-coworking-associatif/issues"
+  },
+  "homepage": "https://github.com/Amabla/statuts-coworking-associatif#readme",
+  "dependencies": {
+    "markdown-pdf": "^10.0.0"
+  }
+}
