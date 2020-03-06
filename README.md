@@ -51,7 +51,7 @@ Ils sont membres de l'assemblée générale avec voix délibérative.
 
 Sont appelés **Membres actifs** les personnes physiques adhérentes de l'association utilisant de manière régulière l'espace de travail de l'association comme environnement de travail. 
 
-Les Membres actifs doivent être à jour de leur cotisation et de paiement de leur prestation et s'engagent à respecter les présents statuts ainsi que le règlement intérieur de l'association.
+Les Membres actifs doivent être à jour de leur cotisation et de paiement de leurs prestations et s'engagent à respecter les présents statuts ainsi que le règlement intérieur de l'association.
 
 Les Membres actifs doivent impérativement participer à la vie de l'association, notamment en contribuant activement à l'un des groupe de travail défini dans le règlement intérieur.
 
