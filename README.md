@@ -96,7 +96,7 @@ Le **collège** est chargé de tout ce qui concerne la correspondance et les arc
 
 Le **collège** désigne un ou plusieurs membres en son sein, qui seront délégataires de la signature sur le compte bancaire.
 Les membres qui ont la délégation de la signature sur le compte bancaire sont chargées de tenir ou faire tenir sous son contrôle la comptabilité de l’association.
-Ils effectuent tous paiements et reçoit, sous la surveillance d'un ou plusieurs membres du **collège**, toutes sommes dues à l’association.
+Ils effectuent tous paiements et reçoivent, sous la surveillance d'un ou plusieurs membres du **collège**, toutes sommes dues à l’association.
 Ils ne peuvent aliéner les valeurs constituant le fonds de réserve qu’avec l’autorisation des autre membres du **collège**.
 Ils tiennent une comptabilité régulière de toutes les opérations qu'elles effectues et rend compte à **l’Assemblée Générale** annuelle qui approuve sa gestion.
 
