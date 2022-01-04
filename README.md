@@ -63,7 +63,7 @@ Sont membres adhérents ceux qui sont à jour de leur cotisation.
 Ils sont membres de l'assemblée générale avec voix délibérative.
 
 ## Article 8 - Radiations
-*La qualité de membre se perd par:
+La qualité de membre se perd par :
 La démission adressée par écrit ou par mél au **collège**.
 Le décès
 La radiation, prononcée par le **collège** pour non-paiement de la cotisation.
