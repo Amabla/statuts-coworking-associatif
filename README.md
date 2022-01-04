@@ -88,7 +88,7 @@ Le rapport financier présenté à l'assemblée générale doit faire mention de
 
 ## Article 11 – Collège solidaire
 
-L'association est administrée par un **collège solidaire** ou plus simplement dénomé ci-après comme le **collège**. Le college est constitué des membres actifs.
+L'association est administrée par un **collège solidaire** ou plus simplement dénomé ci-après comme le **collège**. Le collège est constitué des membres actifs.
 
 Les membres du **collège** représente l'association dans tous les actes de la vie civile. Il a, notamment, qualité pour ester en justice au nom de l'association.
 
