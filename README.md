@@ -98,7 +98,7 @@ Le **collège** désigne un ou plusieurs membres en son sein, qui seront délég
 Les membres qui ont la délégation de la signature sur le compte bancaire sont chargées de tenir ou faire tenir sous son contrôle la comptabilité de l’association.
 Ils effectuent tous paiements et reçoivent, sous la surveillance d'un ou plusieurs membres du **collège**, toutes sommes dues à l’association.
 Ils ne peuvent aliéner les valeurs constituant le fonds de réserve qu’avec l’autorisation des autre membres du **collège**.
-Ils tiennent une comptabilité régulière de toutes les opérations qu'elles effectues et rend compte à **l’Assemblée Générale** annuelle qui approuve sa gestion.
+Ils tiennent une comptabilité régulière de toutes les opérations qu'ils effectuent et rendent compte à **l’Assemblée Générale** annuelle qui approuve leur gestion.
 
 En cas d'absence, le **collège** pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la prochaine assemblée générale ordinaire. Les pouvoirs des membres ainsi élus prennent fin à l'époque où devrait normalement expirer le mandat des remplacés.
 
