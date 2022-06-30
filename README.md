@@ -90,7 +90,7 @@ Le rapport financier présenté à l'assemblée générale doit faire mention de
 
 L'association est administrée par un **collège solidaire** ou plus simplement dénomé ci-après comme le **collège**. Le collège est constitué des membres actifs.
 
-Les membres du **collège** représentent l'association dans tous les actes de la vie civile. Il a, notamment, qualité pour ester en justice au nom de l'association.
+Les membres du **collège** représentent l'association dans tous les actes de la vie civile. Ils ont, notamment, qualité pour ester en justice au nom de l'association.
 
 Le **collège** est chargé de tout ce qui concerne la correspondance et les archives. Il rédige, diffuse et archive les procès verbaux des réunions et assemblées et, en général, toutes les écritures concernant le fonctionnement de l’association, à l’exception de celles qui concernent la comptabilité. Il tient le registre spécial prévu par l’article 5 de la loi du 1er juillet 1901 et les articles 6 et 31 du Décret du 16 août 1901. Il assure l’exécution des formalités prescrites par lesdits articles.
 
