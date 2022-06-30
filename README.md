@@ -121,6 +121,7 @@ En cas de vacance (démission, radiation, décès...), le **collège** peut pour
 
 ## Article 12 – Réunion et pouvoir du **collège**
 Le **collège** se réunit au moins une fois par trimestre, selon un calendrier annuel défini dans le réglement intérieur. Les décisions sont prises à la majorité des voix.
+Tous les membres du **collège** sont sur le même pied d’égalité : chacun des membres élus est ainsi co-président de l’association et la prise de décision est effectué sur le principe d'une personne, une voix.
 Tout membre du **collège** qui, sans excuses, n'aura pas assisté à trois réunions consécutives, pourra être considéré comme démissionnaire.
 
 Le **collège** peut inviter à l'une de ses réunions un autre membre de l'association pour voix consultative.
