@@ -100,24 +100,7 @@ Ils effectuent tous paiements et reçoivent, sous la surveillance d'un ou plusie
 Ils ne peuvent aliéner les valeurs constituant le fonds de réserve qu’avec l’autorisation des autre membres du **collège**.
 Ils tiennent une comptabilité régulière de toutes les opérations qu'ils effectuent et rendent compte à **l’Assemblée Générale** annuelle qui approuve leur gestion.
 
-En cas d'absence, le **collège** pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la prochaine assemblée générale ordinaire. Les pouvoirs des membres ainsi élus prennent fin à l'époque où devrait normalement expirer le mandat des remplacés.
-
-<!-- Prévoir ou non un vote pour élire les membres du collège? -->
-Le **collège** est composé d’un maximum de 10 membres élus par l'Assemblée Générale. En cas de nombre insuffisant de candidats (inférieur ou égal à 10), le nombre de membres du **collège** peut être limité.
-
-Le nombre de votants doit correspondre au moins à 1/3 des membres actifs à jour de cotisation au jour d'envoi de la première Convocation à l'Assemblée Générale.
-
-Les membres sont élus par un vote à bulletin secret dépouillé de manière transparente. En cas d'ex-aequo, les membres en ballotage seront départagés à main levée par l'Assemblée.
-
-Le vote par procuration ou par correspondance est autorisé.
-
-Les membres du **collège** sont élus pour une durée de un an et les membres sortants sont rééligibles.
-
-Il est convenu qu'un minimum de 3/5e des sièges du **collège** est réservé aux membres actifs.
-
-Est éligible toute personne physique qui, au moment de l'envoi de la première convocation à l'élection, est un membre actif à jour de sa cotisation annuelle et âgé de 18 ans ou plus.
-
-En cas de vacance (démission, radiation, décès...), le **collège** peut pourvoir provisoirement au remplacement des membres partants. Il est procédé à leur remplacement définitif lors de la prochaine Assemblée Générale. Les pouvoirs des membres ainsi désignés prennent fin à l'époque où devrait normalement expirer le mandat des membres remplacés.
+Le **collège** est composé des membres permanents.
 
 ## Article 12 – Réunion et pouvoir du **collège**
 Le **collège** se réunit au moins une fois par trimestre, selon un calendrier annuel défini dans le réglement intérieur. Les décisions sont prises à la majorité des voix.
