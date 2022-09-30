@@ -4,7 +4,7 @@
 ## Article 1er – Forme
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er Juillet 1901 et le décret du 16 Août 1901, ayant pour titre Amabla.
 
-Sa durée est illimitée
+Sa durée est illimitée.
 
 ## Article 2 – Objet
 Cette association a pour but la gestion d’un espace de travail pour les indépendants, "start-ups", freelances et télétravailleurs ainsi que l’organisation de manifestations professionnelles, sociales ou de loisirs.
@@ -34,44 +34,41 @@ L’association est constituée pour une durée indéterminée.
 
 ## Article 5 - Composition
 L'association se compose de:
-- Membres d'honneurs
-- Membres bienfaiteurs
-- Membres actifs et adhérents
+1. Membre (nomade ou permanent)
+2. Membre d'honneur 
 
 ## Article 6 - Admission
-Pour faire partie de l'association, il faut être agréé par le **collège** qui statue, lors de chacune de ses réunions, sur les demandes d'admissions présentées. En cas de refus le **collège** n'a pas à justifier de sa décision.
+Pour devenir membre de l'association, il faut être agréé par le **collège** qui statue, lors de chacune de ses réunions, sur les demandes d'admissions présentées. En cas de refus le **collège** n'a pas à justifier de sa décision.
 
 ## Article 7 - Membres
-Sont **membres d'honneurs**, ceux qui ont rendu des services signalés à l'association; ils sont dispensés de cotisations.
+Tous les membres s'engagent à respecter les présents statuts ainsi que le règlement intérieur de l'association.
+
+Sont **membres d'honneur**, ceux qui ont rendu des services signalés à l'association; ils sont dispensés de cotisations.
 
 Ils ont le droit de participer aux assemblées générales mais n'ont pas le droit de vote.
 
-Sont **membres bienfaiteurs**, les personnes qui apportent un soutien financier ou logistique à l'association.
+Est appelé **membre nomade**, tout adhérent à jour de sa cotisation d'adhésion, qui pendant l'année en cours a réglé une ou plusieurs formules journalières (tel que défini dans le contrat de prestation).
 
-Ils sont membres de l'assemblée générale avec voix délibérative.
+Ils ont le droit de participer aux assemblées générales avec droit de vote.
 
-Sont appelés **Membres actifs** les personnes physiques adhérentes de l'association utilisant de manière régulière l'espace de travail de l'association comme environnement de travail.
+Est appelé **membre permanent**, tout adhérent à jour de sa cotisation d'adhésion, à jour de ses mensualités de formule "Bureau OpenSpace" (tel que défini dans le contrat de prestation). 
 
-Les Membres actifs doivent être à jour de leur cotisation et de paiement de leurs prestations et s'engagent à respecter les présents statuts ainsi que le règlement intérieur de l'association.
+Ils sont automatiquement membres du **collège**, et ont droit de vote aux assemblées générales.
 
-Les Membres actifs doivent impérativement participer à la vie de l'association, notamment en contribuant activement à l'un des groupe de travail défini dans le règlement intérieur.
+Ils participent à la vie de l'association, notamment en contribuant activement à l'un des groupe de travail défini dans le règlement intérieur.
 
-Une société, association ou personne morale ne peut représenter elle même un membre actif de l'association.
-
-Sont membres adhérents ceux qui sont à jour de leur cotisation.
-
-Ils sont membres de l'assemblée générale avec voix délibérative.
+Une société, association ou personne morale ne peut être **membre permanent** fût-elle à jour de ses mensualité de formule "Bureau OpenSpace".
 
 ## Article 8 - Radiations
 La qualité de membre se perd par :
-La démission adressée par écrit ou par mél au **collège**.
-Le décès
-La radiation, prononcée par le **collège** pour non-paiement de la cotisation.
-L'exclusion, prononcée par le **collège** pour infraction aux présents statuts ou pour tout autre motif portant préjudice aux intérêts moraux et matériels de l'association.
+1. la démission adressée par écrit ou par mél au **collège**.
+2. le décès
+3. la radiation, prononcée par le **collège** pour non-paiement de la cotisation.
+4. L'exclusion, prononcée par le **collège** pour infraction aux présents statuts ou pour tout autre motif portant préjudice aux intérêts moraux et matériels de l'association.
 
 Avant la décision éventuelle de radiation ou d'exclusion, l'intéressé est invité à fournir des explications écrites et adressées au **collège** de l'association. De même l'intéressé est libre de demander l'appui d'un membre de l'association de son choix.
 
-> * La qualité de membre d'honneur se perd par décision de la majorité des 2/3 du **collège**.
+> La qualité de membre d'honneur se perd par décision de la majorité des 2/3 du **collège**.
 
 > Les membres démissionnaires ou radiés ne peuvent prétendre à aucun droit sur les biens de l'association, ni formuler aucune réclamation sur les sommes versées par eux à titre de cotisation ou tout autre.
 
@@ -88,23 +85,22 @@ Le rapport financier présenté à l'assemblée générale doit faire mention de
 
 ## Article 11 – Collège solidaire
 
-L'association est administrée par un **collège solidaire** ou plus simplement dénomé ci-après comme le **collège**. Le collège est constitué des membres actifs.
+L'association est administrée par un **collège solidaire** ou plus simplement dénommé ci-après comme le **collège**. Le collège est constitué des membres permanents.
 
 Les membres du **collège** représentent l'association dans tous les actes de la vie civile. Ils ont, notamment, qualité pour ester en justice au nom de l'association.
 
 Le **collège** est chargé de tout ce qui concerne la correspondance et les archives. Il rédige, diffuse et archive les procès verbaux des réunions et assemblées et, en général, toutes les écritures concernant le fonctionnement de l’association, à l’exception de celles qui concernent la comptabilité. Il tient le registre spécial prévu par l’article 5 de la loi du 1er juillet 1901 et les articles 6 et 31 du Décret du 16 août 1901. Il assure l’exécution des formalités prescrites par lesdits articles.
 
 Le **collège** désigne un ou plusieurs membres en son sein, qui seront délégataires de la signature sur le compte bancaire.
-Les membres qui ont la délégation de la signature sur le compte bancaire sont chargées de tenir ou faire tenir sous son contrôle la comptabilité de l’association.
+Les membres qui ont la délégation de la signature sur le compte bancaire sont chargés de tenir ou faire tenir sous son contrôle la comptabilité de l’association.
 Ils effectuent tous paiements et reçoivent, sous la surveillance d'un ou plusieurs membres du **collège**, toutes sommes dues à l’association.
 Ils ne peuvent aliéner les valeurs constituant le fonds de réserve qu’avec l’autorisation des autre membres du **collège**.
 Ils tiennent une comptabilité régulière de toutes les opérations qu'ils effectuent et rendent compte à **l’Assemblée Générale** annuelle qui approuve leur gestion.
 
-Le **collège** est composé des membres permanents.
-
 ## Article 12 – Réunion et pouvoir du **collège**
 Le **collège** se réunit au moins une fois par trimestre, selon un calendrier annuel défini dans le réglement intérieur. Les décisions sont prises à la majorité des voix.
 Tous les membres du **collège** sont sur le même pied d’égalité : chacun des membres élus est ainsi co-président de l’association et la prise de décision est effectué sur le principe d'une personne, une voix.
+
 Tout membre du **collège** qui, sans excuses, n'aura pas assisté à trois réunions consécutives, pourra être considéré comme démissionnaire.
 
 Le **collège** peut inviter à l'une de ses réunions un autre membre de l'association pour voix consultative.
@@ -112,20 +108,18 @@ Le **collège** peut inviter à l'une de ses réunions un autre membre de l'asso
 Les réunions font l'objet d'un procès-verbal.
 
 ## Article 13 – Assemblée Générale Ordinaire
-L'assemblée générale ordinaire comprend tous les membres à jour de leur cotisation. L'assemblée générale ordinaire se réunit chaque année. Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués 
-par les soins d'un membre designé par le collège
+L'assemblée générale ordinaire comprend tous les membres à jour de leur cotisation. L'assemblée générale ordinaire se réunit chaque année. Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués par les soins du secrétaire.
 
 Du fait de l'activité de l'association l'assemblée générale peut être convoquée et tenue sur Internet, de même les membres pourront être soumis à un vote en ligne.
 Les décisions sont prises à la majorité des membres présents ou représentés.
 
 L'ordre du jour est indiqué sur les convocations. Un membre désigné par le **collège**, préside l'assemblée et expose la situation morale de l'association.
-Le ou les membres délégataires de la signature sur le compte bancaire rendent compte de leurs gestion et soumet le bilan à l'approbation de l'assemblée. Il est procédé, après épuisement de l'ordre du jour, au remplacement, au scrutin secret des membres du conseil sortant.
+Le ou les membres délégataires de la signature sur le compte bancaire rendent compte de leur gestion et soumettent le bilan à l'approbation de l'assemblée. Il est procédé, après épuisement de l'ordre du jour, au remplacement, au scrutin secret des membres du **collège**.
 
 Ne devront être traitées, lors de l'assemblée générale, que les questions soumises à l'ordre du jour.
 
-Dans le cas du renouvellement du **collège**, l'ensemble des documents manipulés par l'association et nécessaires à son fonctionnement devront parvenir aux nouveaux membres du conseil dans un délais de trois semaines après leur nomination.
-
 Un procès-verbal de la réunion sera établi. Il est signé par les membres du **collège**.
+
 
 ## Article 14 – Assemblée Générale Extraordinaire
 L'assemblée générale extraordinaire est compétente pour modifier les statuts, décider la dissolution, la fusion de l'association. Elle est convoquée sur la demande de la moitié plus un des membres du **collège**, suivant les formalités prévues par l'article 12.
@@ -133,7 +127,7 @@ L'assemblée générale extraordinaire est compétente pour modifier les statuts
 ## Article 15 – Règlement intérieur
 Un règlement intérieur peut être établi par le **collège**. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l'administration interne de l'association.
 
-Chaque modification du Règlement Intérieur doit être validé par la majorité des 2/3 du **collège**. Ces changements doivent être approuvé en Assemblée générale. Les modifications apportées au cours de l'année par le **collège** doivent être approuvées au cours de l'Assemblée générale suivante (ordinaire ou extraordinaire).
+Chaque modification du Règlement Intérieur doit être validé par la majorité des 2/3 du **collège**. Ces changements doivent être approuvés en Assemblée générale. Les modifications apportées au cours de l'année par le **collège** doivent être approuvées au cours de l'Assemblée générale suivante (ordinaire ou extraordinaire).
 
 ## Article 16 – Organisation Comptable
 Il est tenu à jour une comptabilité en recettes et dépenses pour l'enregistrement de toutes opérations financières.
@@ -147,7 +141,7 @@ Le **collège** doit effectuer à la Préfecture les déclarations prévues à l
 - les modifications apportées aux statuts,
 - le changement de titre de l’association,
 - le transfert du siège social,
-- les changements de membres du **collège**,
 - le changement d’objet,
 - la fusion avec une ou des autres associations,
 - la dissolution
+
