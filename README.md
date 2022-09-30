@@ -108,7 +108,7 @@ Le **collège** peut inviter à l'une de ses réunions un autre membre de l'asso
 Les réunions font l'objet d'un procès-verbal.
 
 ## Article 13 – Assemblée Générale Ordinaire
-L'assemblée générale ordinaire comprend tous les membres à jour de leur cotisation. L'assemblée générale ordinaire se réunit chaque année. Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués par les soins du secrétaire.
+L'assemblée générale ordinaire comprend tous les membres à jour de leur cotisation. L'assemblée générale ordinaire se réunit chaque année. Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués par un des membre du **collège**.
 
 Du fait de l'activité de l'association l'assemblée générale peut être convoquée et tenue sur Internet, de même les membres pourront être soumis à un vote en ligne.
 Les décisions sont prises à la majorité des membres présents ou représentés.
