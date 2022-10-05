@@ -61,10 +61,10 @@ Une société, association ou personne morale ne peut être **membre permanent**
 
 ## Article 8 - Radiations
 La qualité de membre se perd par :
-1. la démission adressée par écrit ou par mél au **collège**.
-2. le décès
-3. la radiation, prononcée par le **collège** pour non-paiement de la cotisation.
-4. L'exclusion, prononcée par le **collège** pour infraction aux présents statuts ou pour tout autre motif portant préjudice aux intérêts moraux et matériels de l'association.
+- la démission adressée par écrit ou par mél au **collège**.
+- le décès
+- la radiation, prononcée par le **collège** pour non-paiement de la cotisation.
+- L'exclusion, prononcée par le **collège** pour infraction aux présents statuts ou pour tout autre motif portant préjudice aux intérêts moraux et matériels de l'association.
 
 Avant la décision éventuelle de radiation ou d'exclusion, l'intéressé est invité à fournir des explications écrites et adressées au **collège** de l'association. De même l'intéressé est libre de demander l'appui d'un membre de l'association de son choix.
 
